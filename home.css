@@ -1,5 +1,6 @@
 body {background: #000000;}
 h1 {font-weight: bold;color: #ffffff;text-align: center;}
+p{font-weight: bolder}
 .author {background: linear-gradient(to right, #c10000, #c18e00);text-align: center;padding: 60px 20px;color: #000000;}
 .purpose {background: linear-gradient(to right, #c1c100, #00c100);text-align: center;padding: 60px 20px;color: #000000;}
 .snapshot {background: linear-gradient(to right, #0000c1, #c100c1);text-align: center;padding: 60px 20px;color: #000000;}
