@@ -9,7 +9,7 @@ ul{list-style-position: inside;}
 nav {display: flex;justify-content: center;padding: 10px 0;}
 nav a {color: brown;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: #c5ad71;border-style: solid;border-color: #ff9f00;border-radius: 50px}
 href {text-align: center}
-ul {list-style-position: inside; text-align: center;color}
+ul li {list-style-position: inside; text-align: center;color: brown}
 .page1 {float: left}
 .page2 {float: right}
 .brochure-container {display: flex; justify-content: center;column-gap: 20px;margin: 20px}
