@@ -7,4 +7,4 @@ ul{list-style-position: inside;}
 nav {display: flex;justify-content: center;padding: 10px 0;}
 nav a {color: darkblue;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: #7676f5;border-style: solid;border-color: #00bfad;border-radius: 50px}
 href {text-align: center}
-ul {list-style-position: inside; text-align: center;color}
+ul li {list-style-position: inside; text-align: center;color: darkblue}
