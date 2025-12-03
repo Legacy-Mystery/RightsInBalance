@@ -1,0 +1,9 @@
+body {background: linear-gradient(to left,#707070, white);}
+p {color: black;}
+h1 {font-weight: bold;text-align: center}
+.links {background: linear-gradient(to right, #707070,white);text-align: center;padding: 60px 20px;color: #000000;font-weight: bold;border-style: solid; border-width: thick;border-color: #000000;border-radius: 50px}
+ul{list-style-position: inside;}
+nav {display: flex;justify-content: center;padding: 10px 0;}
+nav a {color: white;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: #707070;border-style: solid;border-color: #000000;border-radius: 50px}
+href {text-align: center}
+ul {list-style-position: inside; text-align: center}
