@@ -3,7 +3,7 @@ body {background: linear-gradient(to left,#062f79,#7676f5,#76a3f5);}
 h1 {font-weight: bold;text-align: center;color: #ffffff}
 .links {background: linear-gradient(to right,#062f79, #7676f5,#76a3f5);text-align: center;padding: 60px 20px;color: #000000;font-weight: bold;border-style: solid; border-width: thick;border-color: #00bfad;border-radius: 250px}
 a {color: white}
-ul{list-style-position: inside;}
+ul{list-style:none;}
 nav {display: flex;justify-content: center;padding: 10px 0;}
 nav a {color: white;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: #7676f5;border-style: solid;border-color: #00bfad;border-radius: 50px}
 href {text-align: center}
