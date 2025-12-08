@@ -5,7 +5,7 @@ h1 {font-weight: bold;}
 img {border-style: solid;border-width: thick;border-color: #bf0042;display: block;max-width: 800px;width: 100%;height: auto; margin-left: auto;margin-right: auto;}
 
 .links {background: linear-gradient(to right,#ffacac, #dd2a55,#ffaaaa);text-align: center;padding: 60px 20px;color: #000000;font-weight: bold;border-style: solid; border-width: thick;border-color: #bf0042;border-radius: 50px}
-ul{list-style-position: inside;}
+ul{list-style:none;}
 nav {display: flex;justify-content: center;padding: 10px 0;}
 nav a {color: #76081e;text-decoration: none;padding: 1px 25px;font-size: 18px;background-color: #ffacac;border-style: solid;border-color: #bf0042;border-radius: 50px}
 href {text-align: center}
